@@ -65,7 +65,7 @@
 ```
 ```
 [+] Email     : furqan9449@gmail.com
-[+] Portfolio : https://furqanakbar.web1337.net
+[+] Portfolio : https://furqanakbar.web1337.net/
 [+] GitHub    : https://github.com/furqanakbarjk
 [>] Available for: Remote Work · Freelance · International Relocation
 ```
